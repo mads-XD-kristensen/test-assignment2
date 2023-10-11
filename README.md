@@ -8,16 +8,16 @@
 - Batteri levetid hvis den var trådløs
 - Dens delay
 
-### Catastrophic failure
+### 1.2 Catastrophic failure
 I 1960'erne afyrede NASA en ubemandet raket, The Mariner 1 space probe, som skulle samle data. Raketten gik ud af kurs og de fik den til at selvdestruere. De fandt ud af at der manglede et "-" i en linje kode og det var grunden til at raketten fik forkerte signaler og fløj ud af kurs. Heldigvis kostede det dem kun 18 millioner dollars (169 millioner hvis det var i dag).
 
 Måske de skulle have lavet simulationer, men hvordan gør man det i 1960'erne? idk.
 
-## Two katas
+## 2 Two katas
 Kig i koden
 
-## Investigation of tools
-### JUnit 5
+## 3 Investigation of tools
+### 3.1 JUnit 5
 - @Tag:
   - Purpose: Allows you to categorize tests. Tags can be used to selectively run a subset of tests based on their tags.
   - Usefulness: Helps in organizing and executing tests based on different criteria, such as functionality, performance, or any other category.
@@ -57,7 +57,7 @@ Kig i koden
   - assumeTrue Purpose: If the given condition is false, the test will fail.
   - Usefulness: These methods are used for conditional test execution.
 
-## Mocking frameworks
+## 3.2 Mocking frameworks
 **Mockito vs spock**
 
 De er begge to meget ens
