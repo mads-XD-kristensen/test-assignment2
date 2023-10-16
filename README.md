@@ -16,7 +16,7 @@ Måske de skulle have lavet simulationer, men hvordan gør man det i 1960'erne? 
 ## 2 Two katas
 I koden ligger der en "strings.feature" fil og der er en "stepDefinitions" fil (nederst i filen ligger også de funktioner jeg har gjort brug af)
 
-Jeg har ikke lavet bowling game opgaven for jeg forstod den ikke helt
+Jeg har ikke lavet bowling game opgaven, for jeg forstod den ikke helt
 
 ## 3 Investigation of tools
 ### 3.1 JUnit 5
