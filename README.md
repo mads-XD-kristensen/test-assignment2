@@ -14,7 +14,9 @@ I 1960'erne afyrede NASA en ubemandet raket, The Mariner 1 space probe, som skul
 Måske de skulle have lavet simulationer, men hvordan gør man det i 1960'erne? idk.
 
 ## 2 Two katas
-Kig i koden
+I koden ligger der en "strings.feature" fil og der er en "stepDefinitions" fil (nederst i filen ligger også de funktioner jeg har gjort brug af)
+
+Jeg har ikke lavet bowling game opgaven for jeg forstod den ikke helt
 
 ## 3 Investigation of tools
 ### 3.1 JUnit 5
